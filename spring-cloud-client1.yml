@@ -1,2 +1,2 @@
 mongo:
-  database: spring-boot-config-client
+  database: spring-boot-config-client__refreshed
